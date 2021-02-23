@@ -1,4 +1,4 @@
-/* run on the furaffinity.net domain */
+javascript:/* run on the furaffinity.net domain */
 
 {
 	
